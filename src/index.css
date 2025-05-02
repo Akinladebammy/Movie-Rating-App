@@ -360,12 +360,12 @@ body {
 
 /* ===== Responsive Design ===== */
 @media (max-width: 768px) {
-  /* .nav-bar {
+  .nav-bar {
     grid-template-columns: 1fr;
     padding: 1.2rem;
     text-align: center;
     gap: 1.2rem;
-  } */
+  }
 
   .search {
     width: 100%;
